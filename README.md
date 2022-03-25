@@ -3,7 +3,7 @@
 - [General info](#general-info)
 - [Technologies](#technologies)
 - [Tools](#tools)
-- [How to use Docker on project](#How to use Docker on project)
+- [How to use Docker on project](#Docker)
 - [Link](#link)
 
 ## General info
