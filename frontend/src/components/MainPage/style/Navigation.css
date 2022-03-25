@@ -1,0 +1,25 @@
+.Nav-container {
+  background-color: blue;
+}
+
+.Nav-body {
+  background-color: brown;
+  padding: 2em;
+  flex-grow: 1;
+}
+
+.Nav-links {
+  background-color: greenyellow;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  gap: 1rem;
+}
+
+.Nav-links li:nth-last-of-type(2) {
+  background-color: aqua;
+
+  margin-left: auto;
+}

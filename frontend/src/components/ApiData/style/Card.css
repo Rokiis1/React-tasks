@@ -1,0 +1,39 @@
+.Profile-container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: 3em 2em;
+}
+
+.Profile-body {
+  border: 2px solid black;
+  background: linear-gradient(
+    0deg,
+    rgba(219, 217, 213, 0.9108018207282913) 6%,
+    rgba(113, 109, 100, 0.908000700280112) 80%
+  );
+}
+
+.Profile-image {
+  display: block;
+  max-width: 100%;
+}
+
+.Profile-name,
+.Profile-login,
+.Profile-followers,
+.Profile-twitter {
+  margin: 0.3em 0.4em;
+}
+
+/* .Profile-name span,
+.Profile-login span,
+.Profile-followers span,
+.Profile-twitter {
+  margin: 0.3em 0.4em;
+} */
+
+.Profile-body span {
+  font-weight: 800;
+  color: var(--bg-r-100);
+}

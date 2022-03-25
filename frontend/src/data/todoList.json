@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "task": "Go fishing",
+    "click": false
+  },
+  {
+    "id": 2,
+    "task": "Grab a coffee",
+    "click": false
+  },
+  {
+    "id": 3,
+    "task": "Eat",
+    "click": false
+  },
+  {
+    "id": 4,
+    "task": "Go to walk",
+    "click": false
+  },
+  {
+    "id": 5,
+    "task": "Take a deep breath",
+    "click": false
+  },
+  {
+    "id": 6,
+    "task": "Go to sleep",
+    "click": false
+  },
+  {
+    "id": 7,
+    "task": "Play a game",
+    "click": false
+  }
+]

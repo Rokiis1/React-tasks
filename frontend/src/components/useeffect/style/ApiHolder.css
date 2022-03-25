@@ -1,0 +1,18 @@
+.ApiHolder-container {
+  margin: 0.2em;
+  display: flex;
+  gap: 20px;
+}
+
+.ApiHolder-container > * {
+  border: none;
+  padding: 0.3em 0.4em;
+  cursor: pointer;
+  font-weight: 600;
+  background-color: var(--bg-100);
+}
+
+.ApiHolder-container button:hover {
+  background-color: var(--bg-500);
+  color: var(--text-neutral);
+}

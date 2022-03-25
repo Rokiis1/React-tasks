@@ -1,0 +1,22 @@
+.PostImage-card,
+.Box-image {
+  margin: 3em 2em;
+}
+
+.PostImage-card {
+  display: flex;
+  gap: 30px;
+}
+
+@media screen and (max-width: 40rem) {
+  .PostImage-card,
+  .Box-image {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+.Box-image {
+  display: flex;
+  justify-content: center;
+}

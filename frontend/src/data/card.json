@@ -1,0 +1,12 @@
+[
+  {
+    "id": 4,
+    "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti, eos. Eum harum cumque in sequi dolorum delectus deleniti, facere accusamus beatae dignissimos rerum consequatur quia obcaecati earum. Placeat, aut quo?",
+    "coverImg": "https://via.placeholder.com/120/09f/fff.png"
+  },
+  {
+    "id": 5,
+    "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti, eos. Eum harum cumque in sequi dolorum delectus deleniti, facere accusamus beatae dignissimos rerum consequatur quia obcaecati earum. Placeat, aut quo?",
+    "coverImg": "https://via.placeholder.com/120/09f/fff.png"
+  }
+]

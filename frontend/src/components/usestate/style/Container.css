@@ -1,0 +1,22 @@
+.Container {
+  margin: 2em 2em;
+}
+
+.Learning {
+  margin: 2em 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+@media screen and (max-width: 40rem) {
+  .Learning {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+.Todo {
+  padding: 1em 1em;
+  box-shadow: 0px 3px 11px 4px rgba(0, 0, 0, 0.49);
+}

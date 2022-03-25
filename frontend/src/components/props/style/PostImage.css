@@ -1,0 +1,11 @@
+.PostImage-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+
+.PostImage-image {
+  border-radius: 50%;
+  margin-bottom: 1.5em;
+}

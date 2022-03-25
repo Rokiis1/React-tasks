@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "img": "https://via.placeholder.com/200/09f/fff.png",
+    "language": "I am learning React"
+  },
+  {
+    "id": 2,
+    "img": "https://via.placeholder.com/200/09f/fff.png",
+    "language": "I am learning CSS"
+  },
+  {
+    "id": 3,
+    "img": "https://via.placeholder.com/200/09f/fff.png",
+    "language": "I am learning PHP"
+  }
+]

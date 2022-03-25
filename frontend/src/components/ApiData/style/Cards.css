@@ -1,0 +1,42 @@
+.Cards-container {
+  border: 2px solid black;
+  flex-grow: 1;
+  background: linear-gradient(
+    0deg,
+    rgba(219, 217, 213, 0.9108018207282913) 6%,
+    rgba(113, 109, 100, 0.908000700280112) 80%
+  );
+}
+
+.Cards-img {
+  display: block;
+  max-width: 100%;
+  min-width: 100%;
+  border-bottom: 2px solid black;
+}
+
+.Cards-h2,
+.Cards-p,
+.Cards-button {
+  margin: 0.3em 0.4em;
+}
+
+.Cards-h2 span,
+.Cards-p span {
+  font-weight: 800;
+  color: var(--bg-r-100);
+}
+
+.Cards-button {
+  border: none;
+  padding: 0.3em 0.4em;
+  border-radius: 7px;
+  background-color: var(--bgr-100);
+  color: var(--text-neutral);
+  cursor: pointer;
+}
+
+.Cards-button:hover {
+  transition: all 0.3s ease 0s;
+  background-color: var(--bgr-200);
+}
