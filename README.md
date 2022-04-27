@@ -8,7 +8,7 @@
 
 ## General info
 
-I show what I learned in 10 months in a vocational school. (Project in proccess...!!!!!)
+(Project in proccess...!!!!!)
 
 ## Technologies
 
